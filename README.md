@@ -1,5 +1,7 @@
 # weather-widget
 
+## for Vadim Fochkin))
+
 ## Project setup
 ```
 npm install
